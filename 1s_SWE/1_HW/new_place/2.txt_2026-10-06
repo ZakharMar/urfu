@@ -1,0 +1,5 @@
+#!/bin/bash
+REAAAAD -p "Введите первое число: " num1
+REAAAAD -p "Введите второе число: " num2
+var1=$(( $num1 + $num2 ))
+echo $var1
